@@ -21,7 +21,7 @@ console.log(longitude);
 */
 
 
-/* // Aula 04 - Tipos de dados primitivos - Strings */
+/* // Aula 04 - Tipos de dados primitivos - Strings 
 var nome = "João";  // podem ser usadas aspas duplas
 var sobrenome = 'Gomes';  // ou aspas simples
 var cpf = '111.111.111-11'; // Para numeros que não são feitos calculos e melhor usar string
@@ -40,6 +40,9 @@ console.log('Primeira letra do nome:' + nome[3]);
 console.log('Número de caracteres do telefone: ' + telefone.length);
 
 // String é considerado uma sequencia de caracteres [0, 1, 2, 3] = "João"
+*/
 
 
 /* // Aula 05 - Tipos de dados primitivos - Numbers */
+
+teste de tudo
