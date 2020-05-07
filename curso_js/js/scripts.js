@@ -41,8 +41,3 @@ console.log('Número de caracteres do telefone: ' + telefone.length);
 
 // String é considerado uma sequencia de caracteres [0, 1, 2, 3] = "João"
 */
-
-
-/* // Aula 05 - Tipos de dados primitivos - Numbers */
-
-teste de tudo
